@@ -1,13 +1,16 @@
+### Hi there 👋
 
+<!--
+**ASKAUTU/ASKAUTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 
-
-
-![Sprite-0004](https://github.com/ASKAUTU/ASKAUTU/assets/144026114/dde26100-6166-4cdc-a82c-8d2d5bf877d8)
-
-### 저의 프로필에 오신것을 환영합니다!
-
-______________
-
-
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
