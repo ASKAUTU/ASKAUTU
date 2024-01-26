@@ -32,6 +32,20 @@
 <br> 
 </br>
 
+### <center> 🤍깃허브 스탯🤍
+
+![Yogurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimdongyoung&show_icons=true&theme=radical)
+
+<br>
+</br>
+
+### <center> 💬자주 사용하는 언어💬
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+<br>
+</br>
+
 
 
 
