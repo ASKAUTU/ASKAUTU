@@ -20,9 +20,7 @@
 <img src="https://img.shields.io/badge/Unity-000000
 ?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/ps-31A8FF
 ?style=for-the-badge&logo=AdobePhotoShop&logoColor=white">  <img src="https://img.shields.io/badge/Ae-9999FF
-?style=for-the-badge&logo=AdobeAfterEffects&logoColor=white">  <img src="https://img.shields.io/badge/Ae-9999FF
-?style=for-the-badge&logo=X&logoColor=white">  
-
+?style=for-the-badge&logo=AdobeAfterEffects&logoColor=white">  
 <br>
 
 </br>
