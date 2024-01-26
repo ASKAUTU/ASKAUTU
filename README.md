@@ -41,7 +41,7 @@
 
 ### <center> 💬자주 사용하는 언어💬
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASKAUTU&layout=compact)
 
 <br>
 </br>
